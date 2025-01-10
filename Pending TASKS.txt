@@ -1,0 +1,6 @@
+1.Must find the eye blink detector model and evaluate it with NTHUDDD dataset
+2.Reading the NTHUDDD dataset high performance papers
+	1.Validating their conference
+	2.Making sure head nodding is a part
+	3.Understanding the working so that it can be evaluated against other papers
+	
