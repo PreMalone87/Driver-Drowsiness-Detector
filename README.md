@@ -7,7 +7,7 @@ The system aims to detect if the driver is drowsy and categorizes it at a level 
 
 ### High Level Overview of the sleepiness scale : 
 
-![DDD_Plan](DriverDrowsinessDetectionPlan.JPG)
+![DDD_Plan](DriverDrowsinessDetectionPlan.jpg)
 
 ### Driver Drowsiness Implementation : 
 
