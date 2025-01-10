@@ -1,1 +1,0 @@
-These are lilke dev environment where changes are made. For latest working code go to individual folders in previous directory
